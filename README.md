@@ -1,5 +1,5 @@
 # Boilerplate Webpack JS, SASS and Image
-After installing you site should look like this => [Boilerplate Webpack JS, SASS and Image](https://abhaypai.github.io/boilerplate-webpack-js-sass-image)
+After installing you site should look like this => [Boilerplate Webpack JS, SASS and Image](https://abhaypai.github.io/boilerplate-webpack-js-sass-image/)
 
 Created a Boilerplate for compiling JS using `node.js` and `webpack`
 
@@ -26,6 +26,7 @@ Frontend Handler
 * [Babel-Loader](https://www.npmjs.com/package/babel-loader)
 * [Babel-Preset-Env](https://www.npmjs.com/package/babel-preset-env)
 * [Clean-Webpack-Plugin](https://www.npmjs.com/package/webpack-clean-plugin)
+* [Copy-Webpack-Plugin](https://www.npmjs.com/package/copy-webpack-plugin)
 * [Uglifyjs-Webpack-Plugin](https://www.npmjs.com/package/uglifyjs-webpack-plugin)
 * [Css-Loader](https://www.npmjs.com/package/css-loader)
 * [Extract-Text-Webpack-Plugin](https://www.npmjs.com/package/extract-text-webpack-plugin)
